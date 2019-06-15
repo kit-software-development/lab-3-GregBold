@@ -1,0 +1,10 @@
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\bin\Debug\Calculator.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\bin\Debug\Calculator.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\bin\Debug\Calculator.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Calculator\obj\Debug\Calculator.theForm.resources

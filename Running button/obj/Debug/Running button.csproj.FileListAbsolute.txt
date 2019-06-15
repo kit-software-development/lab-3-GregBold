@@ -1,0 +1,22 @@
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\bin\Debug\lab-3-Parol45.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\bin\Debug\lab-3-Parol45.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\bin\Debug\lab-3-Parol45.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\Running button.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\lab_3_Parol45.winningDialogWin.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\lab_3_Parol45.Properties.Resources.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\Running button.csproj.GenerateResource.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\Running button.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\lab-3-Parol45.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\lab-3-Parol45.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Running button\obj\Debug\lab_3_Parol45.Form1.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\bin\Debug\lab-3-Parol45.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\bin\Debug\lab-3-Parol45.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\bin\Debug\lab-3-Parol45.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\Running button.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\lab_3_Parol45.winningDialogWin.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\lab_3_Parol45.Properties.Resources.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\lab_3_Parol45.Form1.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\Running button.csproj.GenerateResource.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\Running button.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\lab-3-Parol45.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Running button\obj\Debug\lab-3-Parol45.pdb

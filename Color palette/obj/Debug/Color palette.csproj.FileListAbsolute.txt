@@ -1,0 +1,20 @@
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\bin\Debug\Color palette.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\bin\Debug\Color palette.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\bin\Debug\Color palette.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color palette.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color_palette.Properties.Resources.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color palette.csproj.GenerateResource.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color palette.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color palette.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color palette.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\lab-3-Parol45-shafranov-ds\Color palette\obj\Debug\Color_palette.Form1.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\bin\Debug\Color palette.exe.config
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\bin\Debug\Color palette.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\bin\Debug\Color palette.pdb
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color palette.csprojAssemblyReference.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color_palette.Form1.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color_palette.Properties.Resources.resources
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color palette.csproj.GenerateResource.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color palette.csproj.CoreCompileInputs.cache
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color palette.exe
+D:\Не трогать всем, кроме Гриши (Это я)\Студент\С# 2019\3-я лаба\Color palette\obj\Debug\Color palette.pdb
